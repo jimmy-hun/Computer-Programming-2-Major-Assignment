@@ -1,2 +1,0 @@
-txtEmployeeDetails = new JTextArea();
-txtEmployeeDetails.setWrapStyleWord(true); // enable word wrap
